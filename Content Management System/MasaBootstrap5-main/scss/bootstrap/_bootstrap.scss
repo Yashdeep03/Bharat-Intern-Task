@@ -1,0 +1,8 @@
+// import custom variables (bootstrap overrides)
+@import "variables";
+
+// import bootstrap from dependencies directory
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+// import custom scss
+@import "custom";
